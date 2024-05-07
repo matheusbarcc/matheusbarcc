@@ -5,6 +5,6 @@
 ⚙️ Learning more about Angular, Bootstrap and Java at the moment<br/>
 
 [![matheusbarcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbarcc&showicons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbarcc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbarcc&showicons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
