@@ -9,8 +9,9 @@
 
 <div align="center">
   <a href="https://github.com/matheusbarcc">
-  ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbarcc&show_icons=true&theme=codeSTACKr)
-  ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=matheusbarcc&show_icons=true&langs_count=7&theme=codeSTACKr)
+    <img src="https://github-readme-stats.vercel.app/api?username=matheusbarcc&show_icons=true&theme=codeSTACKr" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbarcc&layout=compact&show_icons=true&langs_count=7&theme=codeSTACKr" />
+  </a>
 </div>
 
 
