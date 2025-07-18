@@ -1,6 +1,6 @@
 ### What's up! I'm Matheus, welcome to my profile!👋
 
-👨‍💻 Web and mobile development<br/>
+👨‍💻 Web and mobile developer<br/>
 📚 Currently studying Computer Science @ Unisul [5/8]</br>
 ⚙️ Learning more about React and Spring at the moment<br/>
 
