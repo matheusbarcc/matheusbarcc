@@ -1,7 +1,7 @@
 ### What's up! I'm Matheus, welcome to my profile!👋
 
 👨‍💻 Web and mobile developer<br/>
-📚 Currently studying Computer Science @ Unisul [5/8]</br>
+📚 Currently studying Computer Science @ Unisul [6/8]</br>
 ⚙️ Learning more about React and Spring at the moment<br/>
 
 <!-- [![matheusbarcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbarcc&showicons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
